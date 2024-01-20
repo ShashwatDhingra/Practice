@@ -1,4 +1,4 @@
 # Practice
 Practice Repo
 <br>
-Practice Git
+Practice GitHub
